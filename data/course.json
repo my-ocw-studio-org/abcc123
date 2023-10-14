@@ -1,0 +1,39 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "abc123"
+  },
+  "course_image": {
+    "content": "",
+    "website": "abc123"
+  },
+  "course_title": "Computer Programming",
+  "hide_download": false,
+  "course_description": "Blah blah blah",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "abc123"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "2e95e874-a0d6-402d-ac0a-ad319243cd6d",
+  "site_short_id": "abcc123"
+}
